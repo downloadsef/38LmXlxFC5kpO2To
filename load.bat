@@ -1,2 +1,2 @@
 @echo off
-start /B "" "uu.bat"
+start /B "" "C:\\Users\\Public\\Downloads\\uu.bat"
